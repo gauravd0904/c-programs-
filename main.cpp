@@ -1,4 +1,4 @@
-#include <iostream>
+#nclude <iostream>
 #include <string>
 using namespace std;
 
@@ -7,7 +7,7 @@ private:
     int rollNumber;
     string name;
     float marks[3];
-    float total;
+    float total:
     float percentage;
     string result;
 
